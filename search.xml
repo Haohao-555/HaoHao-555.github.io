@@ -4,11 +4,11 @@
   
     
     <entry>
-      <title>实现子元素在父元素中水平垂直都居中笔记</title>
-      <link href="/2021/06/26/%E5%AE%9E%E7%8E%B0%E5%AD%90%E5%85%83%E7%B4%A0%E5%9C%A8%E7%88%B6%E5%85%83%E7%B4%A0%E4%B8%AD%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E9%83%BD%E5%B1%85%E4%B8%AD%E7%AC%94%E8%AE%B0/"/>
-      <url>/2021/06/26/%E5%AE%9E%E7%8E%B0%E5%AD%90%E5%85%83%E7%B4%A0%E5%9C%A8%E7%88%B6%E5%85%83%E7%B4%A0%E4%B8%AD%E6%B0%B4%E5%B9%B3%E5%9E%82%E7%9B%B4%E9%83%BD%E5%B1%85%E4%B8%AD%E7%AC%94%E8%AE%B0/</url>
+      <title>content1</title>
+      <link href="/2021/06/26/content1/"/>
+      <url>/2021/06/26/content1/</url>
       
-        <content type="html"><![CDATA[<h4 id="实现子元素在父元素中水平垂直都居中"><a href="#实现子元素在父元素中水平垂直都居中" class="headerlink" title="实现子元素在父元素中水平垂直都居中"></a>实现子元素在父元素中水平垂直都居中</h4><ul><li>设置子元素绝对定位</li><li>设置子元素的left值和top值为50%</li><li>设置父元素相对定位</li><li>设置子元素margin-left：负自身宽度一半</li><li>设置子元素margin-top：负自身高度一半</li></ul><figure class="highlight html"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">style</span>&gt;</span><span class="css"></span></span><br><span class="line"><span class="css">   //消除默认样式</span></span><br><span class="line"><span class="css">   *&#123;<span class="attribute">margin</span>: <span class="number">0</span>;<span class="attribute">padding</span>: <span class="number">0</span>;&#125;</span></span><br><span class="line"><span class="css">   <span class="selector-class">.father</span>&#123;</span></span><br><span class="line"><span class="css">      <span class="attribute">width</span>: <span class="number">500px</span>;</span></span><br><span class="line"><span class="css">      <span class="attribute">height</span>: <span class="number">500px</span>;</span></span><br><span class="line"><span class="css">      <span class="attribute">background</span>: pink;</span></span><br><span class="line"><span class="css">      <span class="attribute">margin</span>: <span class="number">100px</span> auto;</span></span><br><span class="line"><span class="css">      <span class="attribute">position</span>: relative;//设置父元素相对定位</span></span><br><span class="line"><span class="css">    &#125;</span></span><br><span class="line"><span class="css">    <span class="selector-class">.father</span> <span class="selector-class">.son</span>&#123;</span></span><br><span class="line"><span class="css">         <span class="attribute">width</span>: <span class="number">200px</span>;</span></span><br><span class="line"><span class="css">         <span class="attribute">height</span>: <span class="number">100px</span>;</span></span><br><span class="line"><span class="css">         <span class="attribute">background</span>: skyblue;</span></span><br><span class="line"><span class="css">         <span class="attribute">position</span>: absolute;//设置子元素绝对定位</span></span><br><span class="line"><span class="css">         </span></span><br><span class="line"><span class="css">         //设置子元素的<span class="attribute">left</span>值和<span class="attribute">top</span>值为<span class="number">50%</span></span></span><br><span class="line"><span class="css">         <span class="attribute">left</span>: <span class="number">50%</span>;</span></span><br><span class="line"><span class="css">         <span class="attribute">top</span>:<span class="number">50%</span>;</span></span><br><span class="line"><span class="css">         </span></span><br><span class="line"><span class="css">         <span class="attribute">margin-left</span>: -<span class="number">100px</span>;//设置子元素<span class="attribute">margin-left</span>：负自身宽度一半</span></span><br><span class="line"><span class="css">         <span class="attribute">margin-top</span>: -<span class="number">50px</span>; //设置子元素<span class="attribute">margin-top</span>：负自身高度一半</span></span><br><span class="line"><span class="css">         &#125;</span></span><br><span class="line"><span class="css"></span><span class="tag">&lt;/<span class="name">style</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;father&quot;</span>&gt;</span></span><br><span class="line">     <span class="tag">&lt;<span class="name">div</span> <span class="attr">class</span>=<span class="string">&quot;son&quot;</span>&gt;</span><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">div</span>&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
+        <content type="html"><![CDATA[<h4 id="一、本地使用-hexo-搭建个人博客"><a href="#一、本地使用-hexo-搭建个人博客" class="headerlink" title="一、本地使用 hexo 搭建个人博客"></a>一、本地使用 hexo 搭建个人博客</h4><ul><li>全局安装 hexo<ul><li>npm install -g hexo-cli </li><li>hexo -v (查看 hexo 信息)</li></ul></li></ul><img src="/2021/06/26/content1/1.png" style="zoom:80%;"><ul><li><p>创建文件 blog</p><ul><li>进入到文件中并初始化项目 hexo s</li></ul></li><li><p>启动项目</p><ul><li><p>hexo s</p><p><img src="/2021/06/26/content1/1-1624601843716.png"></p></li></ul><p><img src="/2021/06/26/content1/1-1624601766027.png"></p></li></ul><h4 id="二、创建博客"><a href="#二、创建博客" class="headerlink" title="二、创建博客"></a>二、创建博客</h4><ul><li><p>hexo n “我的第一篇博客”</p><p><img src="/2021/06/26/content1/1-1624602118665.png"></p></li><li><p>重新启动项目</p><ul><li>hexo s</li></ul></li></ul><p><img src="/2021/06/26/content1/1-1624603860533.png"></p><h4 id="三、部署上线"><a href="#三、部署上线" class="headerlink" title="三、部署上线"></a>三、部署上线</h4><ul><li><p>github 创建一个仓库</p><ul><li><p>仓库名就是访问的域名</p><p><img src="/2021/06/26/content1/1-1624604131753.png"></p></li><li><p>修改本地项目的 _config.yml 文件</p><p><img src="/2021/06/26/content1/1-1624604201769.png"></p></li></ul></li><li><p>在项目目录下安装 hexo-deployer-git</p><ul><li>npm install – save hexo-deployer-git</li></ul></li><li><p>打开本地终端生成文件，再将项目 push 到 github</p><ul><li>hexo clean (清除原来的文件)</li><li>hexo g (生成文件)</li><li>hexo d (push 到远端)</li></ul></li><li><p>通过 Haohao-555.github.io 访问</p><p><img src="/2021/06/26/content1/1-1624604437584.png"></p></li></ul>]]></content>
       
       
       <categories>
@@ -16,38 +16,6 @@
           <category> 笔记 </category>
           
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>Javascript数据结构</title>
-      <link href="/2021/06/26/JavaScript%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%B0%81%E8%A3%85%E4%BA%8C%E5%8F%89%E6%A0%91%EF%BC%89/"/>
-      <url>/2021/06/26/JavaScript%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%EF%BC%88%E5%B0%81%E8%A3%85%E4%BA%8C%E5%8F%89%E6%A0%91%EF%BC%89/</url>
-      
-        <content type="html"><![CDATA[<h5 id="一、什么是二叉树"><a href="#一、什么是二叉树" class="headerlink" title="一、什么是二叉树"></a>一、什么是二叉树</h5><p>二叉树是指每个节点最多含有两个子树的树结构。</p><p>特点：</p><ul><li>所有节点最多拥有两个子节点，即度不大于2</li><li>左子树的键值小于根的键值，右子树的键值大于根的键值。</li></ul><h5 id="二、二叉树结构"><a href="#二、二叉树结构" class="headerlink" title="二、二叉树结构"></a>二、二叉树结构</h5><p>每一个结点（除叶子结点外）都有左子树和右子树.</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">// 结点</span></span><br><span class="line"><span class="keyword">var</span> Node = <span class="function"><span class="keyword">function</span>(<span class="params">key</span>) </span>&#123;</span><br><span class="line"><span class="built_in">this</span>.key = key;</span><br><span class="line"><span class="built_in">this</span>.left = <span class="literal">null</span>;</span><br><span class="line"><span class="built_in">this</span>.right = <span class="literal">null</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      
-        <tags>
-            
-            <tag> 数据结构 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>hexo 使用笔记</title>
-      <link href="/2021/06/25/hexo-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/"/>
-      <url>/2021/06/25/hexo-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/</url>
-      
-        <content type="html"><![CDATA[<h4 id="一、本地使用-hexo-搭建个人博客"><a href="#一、本地使用-hexo-搭建个人博客" class="headerlink" title="一、本地使用 hexo 搭建个人博客"></a>一、本地使用 hexo 搭建个人博客</h4><ul><li>全局安装 hexo<ul><li>npm install -g hexo-cli </li><li>hexo -v (查看 hexo 信息)</li></ul></li></ul><img src="/2021/06/25/hexo-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/1.png" style="zoom:80%;"><ul><li><p>创建文件 blog</p><ul><li>进入到文件中并初始化项目 hexo s</li></ul></li><li><p>启动项目</p><ul><li><p>hexo s</p><p><img src="/2021/06/25/hexo-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/1-1624601843716.png"></p></li></ul><p><img src="/2021/06/25/hexo-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/1-1624601766027.png"></p></li></ul><h4 id="二、创建博客"><a href="#二、创建博客" class="headerlink" title="二、创建博客"></a>二、创建博客</h4><ul><li><p>hexo n “我的第一篇博客”</p><p><img src="/2021/06/25/hexo-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/1-1624602118665.png"></p></li><li><p>重新启动项目</p><ul><li>hexo s</li></ul></li></ul><p><img src="/2021/06/25/hexo-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/1-1624603860533.png"></p><h4 id="三、部署上线"><a href="#三、部署上线" class="headerlink" title="三、部署上线"></a>三、部署上线</h4><ul><li><p>github 创建一个仓库</p><ul><li><p>仓库名就是访问的域名</p><p><img src="/2021/06/25/hexo-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/1-1624604131753.png"></p></li><li><p>修改本地项目的 _config.yml 文件</p><p><img src="/2021/06/25/hexo-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/1-1624604201769.png"></p></li></ul></li><li><p>在项目目录下安装 hexo-deployer-git</p><ul><li>npm install – save hexo-deployer-git</li></ul></li><li><p>打开本地终端生成文件，再将项目 push 到 github</p><ul><li>hexo clean (清除原来的文件)</li><li>hexo g (生成文件)</li><li>hexo d (push 到远端)</li></ul></li><li><p>通过 Haohao-555.github.io 访问</p><p><img src="/2021/06/25/hexo-%E4%BD%BF%E7%94%A8%E7%AC%94%E8%AE%B0/1-1624604437584.png"></p></li></ul>]]></content>
-      
       
       
     </entry>
