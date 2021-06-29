@@ -116,7 +116,7 @@
 
   <url>
     <loc>http://haohaostudy.xyz/</loc>
-    <lastmod>2021-06-28</lastmod>
+    <lastmod>2021-06-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -124,7 +124,7 @@
   
   <url>
     <loc>http://haohaostudy.xyz/tags/ES6/</loc>
-    <lastmod>2021-06-28</lastmod>
+    <lastmod>2021-06-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -133,14 +133,14 @@
   
   <url>
     <loc>http://haohaostudy.xyz/categories/%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-06-28</lastmod>
+    <lastmod>2021-06-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://haohaostudy.xyz/categories/ES6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
-    <lastmod>2021-06-28</lastmod>
+    <lastmod>2021-06-29</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
