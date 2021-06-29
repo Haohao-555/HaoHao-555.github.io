@@ -143,4 +143,6 @@
    visibility: hidden;
 }
 
-
+.live2d-widget-container {
+   left: 1350px !important;
+}
