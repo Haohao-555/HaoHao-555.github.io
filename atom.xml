@@ -220,26 +220,4 @@
     
   </entry>
   
-  <entry>
-    <title>hexo 搭建博客笔记</title>
-    <link href="http://haohaostudy.xyz/2021/06/26/content1/"/>
-    <id>http://haohaostudy.xyz/2021/06/26/content1/</id>
-    <published>2021-06-26T09:50:17.000Z</published>
-    <updated>2021-06-30T08:25:14.269Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><h4 id="一、本地使用-hexo-搭建个人博客"><a href="#一、本地使用-hexo-搭建个人博客" class="headerlink" title="一、本地使用 hexo 搭建个人博客"></a>一、本地使用 hexo 搭建个人博客</h4><ul><li>全局安装 hexo<ul><li>npm install -g hexo-cli </li><li>hexo -v (查看 hexo 信息)</li></ul></li></ul><img src="/2021/06/26/content1/1.png" style="zoom:80%;"><ul><li><p>创建文件 blog</p><ul><li>进入到文件中并初始化项目 hexo init</li></ul></li><li><p>启动项目</p><ul><li><p>hexo s</p><p><img src="/2021/06/26/content1/1-1624601843716.png"></p></li></ul><p><img src="/2021/06/26/content1/1-1624601766027.png"></p></li></ul><h4 id="二、创建博客"><a href="#二、创建博客" class="headerlink" title="二、创建博客"></a>二、创建博客</h4><ul><li><p>hexo n “我的第一篇博客”</p><p><img src="/2021/06/26/content1/1-1624602118665.png"></p></li><li><p>重新启动项目</p><ul><li>hexo s</li></ul></li></ul><p><img src="/2021/06/26/content1/1-1624603860533.png"></p><h4 id="三、部署上线"><a href="#三、部署上线" class="headerlink" title="三、部署上线"></a>三、部署上线</h4><ul><li><p>github 创建一个仓库</p><ul><li><p>仓库名就是访问的域名</p><p><img src="/2021/06/26/content1/1-1624604131753.png"></p></li><li><p>修改本地项目的 _config.yml 文件</p><p><img src="/2021/06/26/content1/1-1624604201769.png"></p></li></ul></li><li><p>在项目目录下安装 hexo-deployer-git</p><ul><li>npm install – save hexo-deployer-git</li></ul></li><li><p>打开本地终端生成文件，再将项目 push 到 github</p><ul><li>hexo clean (清除原来的文件)</li><li>hexo g (生成文件)</li><li>hexo d (push 到远端)</li></ul></li><li><p>通过 Haohao-555.github.io 访问</p><p><img src="/2021/06/26/content1/1-1624604437584.png"></p></li></ul>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="笔记" scheme="http://haohaostudy.xyz/categories/%E7%AC%94%E8%AE%B0/"/>
-    
-    
-  </entry>
-  
 </feed>

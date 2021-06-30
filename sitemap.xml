@@ -58,13 +58,6 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/2021/06/26/content1/</loc>
-    
-    <lastmod>2021-06-30</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://haohaostudy.xyz/music/index.html</loc>
     
     <lastmod>2021-06-29</lastmod>
@@ -165,13 +158,6 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86/</loc>
-    <lastmod>2021-06-30</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://haohaostudy.xyz/tags/Vue-%E5%85%A8%E5%AE%B6%E6%A1%B6/</loc>
     <lastmod>2021-06-30</lastmod>
     <changefreq>daily</changefreq>
@@ -185,17 +171,17 @@
     <priority>0.6</priority>
   </url>
   
-
-  
   <url>
-    <loc>http://haohaostudy.xyz/categories/node/</loc>
+    <loc>http://haohaostudy.xyz/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86/</loc>
     <lastmod>2021-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
+
+  
   <url>
-    <loc>http://haohaostudy.xyz/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://haohaostudy.xyz/categories/node/</loc>
     <lastmod>2021-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
