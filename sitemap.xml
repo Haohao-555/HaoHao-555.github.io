@@ -2,86 +2,72 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://haohaostudy.xyz/music/index.html</loc>
+    <loc>http://haohaostudy.xyz/2021/06/30/vue-content/</loc>
     
-    <lastmod>2021-06-29</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://haohaostudy.xyz/2021/06/27/content2/</loc>
-    
-    <lastmod>2021-06-28</lastmod>
+    <lastmod>2021-06-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/2021/06/27/content11/</loc>
+    <loc>http://haohaostudy.xyz/2021/06/30/wechat/</loc>
     
-    <lastmod>2021-06-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://haohaostudy.xyz/2021/06/27/content10/</loc>
-    
-    <lastmod>2021-06-27</lastmod>
+    <lastmod>2021-06-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/2021/06/27/content9/</loc>
+    <loc>http://haohaostudy.xyz/2021/06/30/sequelize/</loc>
     
-    <lastmod>2021-06-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://haohaostudy.xyz/2021/06/27/content8/</loc>
-    
-    <lastmod>2021-06-27</lastmod>
+    <lastmod>2021-06-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/2021/06/27/content7/</loc>
+    <loc>http://haohaostudy.xyz/2021/06/30/JWT/</loc>
     
-    <lastmod>2021-06-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://haohaostudy.xyz/2021/06/27/content6/</loc>
-    
-    <lastmod>2021-06-27</lastmod>
+    <lastmod>2021-06-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/2021/06/27/content5/</loc>
+    <loc>http://haohaostudy.xyz/2021/06/30/http-node/</loc>
     
-    <lastmod>2021-06-27</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://haohaostudy.xyz/2021/06/27/content4/</loc>
-    
-    <lastmod>2021-06-27</lastmod>
+    <lastmod>2021-06-30</lastmod>
     
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/2021/06/27/content3/</loc>
+    <loc>http://haohaostudy.xyz/2021/06/30/wechat-back/</loc>
     
-    <lastmod>2021-06-27</lastmod>
+    <lastmod>2021-06-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/2021/06/30/tree/</loc>
+    
+    <lastmod>2021-06-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/2021/06/30/javaScript/</loc>
+    
+    <lastmod>2021-06-30</lastmod>
     
   </url>
   
   <url>
     <loc>http://haohaostudy.xyz/2021/06/26/content1/</loc>
     
-    <lastmod>2021-06-26</lastmod>
+    <lastmod>2021-06-30</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/music/index.html</loc>
+    
+    <lastmod>2021-06-29</lastmod>
     
   </url>
   
@@ -130,13 +116,83 @@
 
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/ES6/</loc>
+    <loc>http://haohaostudy.xyz/tags/JWT/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/node/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/http/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/sequelize/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/JavaScript%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/%E5%BE%AE%E4%BF%A1%E8%BF%90%E5%8A%A8/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/Vue-%E5%85%A8%E5%AE%B6%E6%A1%B6/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/Koa2/</loc>
     <lastmod>2021-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
 
+  
+  <url>
+    <loc>http://haohaostudy.xyz/categories/node/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
   <url>
     <loc>http://haohaostudy.xyz/categories/%E7%AC%94%E8%AE%B0/</loc>
@@ -146,7 +202,28 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/categories/ES6%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://haohaostudy.xyz/categories/sequelize/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/categories/JavaScript%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/categories/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
+    <lastmod>2021-06-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/categories/Node-js-Koa2-vue%E5%85%A8%E5%AE%B6%E6%A1%B6%E5%AE%9E%E7%8E%B0%E6%96%B0%E6%B5%AA%E5%BE%AE%E5%8D%9A/</loc>
     <lastmod>2021-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
