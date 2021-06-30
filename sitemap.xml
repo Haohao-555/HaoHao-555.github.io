@@ -188,14 +188,14 @@
 
   
   <url>
-    <loc>http://haohaostudy.xyz/categories/node/</loc>
+    <loc>http://haohaostudy.xyz/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://haohaostudy.xyz/categories/node/</loc>
     <lastmod>2021-06-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
