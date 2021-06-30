@@ -152,3 +152,22 @@ background: $light-blue*/
 .live2d-widget-container {
     left: 1350px !important;
 }
+
+
+/* 鼠标 */
+
+
+/* body {
+    cursor: url(https://cdn.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/theme_f/curcor1.png), auto;
+}
+
+.hide-block>.hide-button.open,
+.hide-inline>.hide-button.open {
+    display: block
+}
+
+a,
+button,
+img {
+    cursor: url(https://cdn.jsdelivr.net/gh/tzy13755126023/BLOG_SOURCE/theme_f/curcor2.png), auto
+} */
