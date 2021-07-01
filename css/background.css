@@ -1,8 +1,0 @@
-#web_bg {
-    background-image: linear-gradient( to bottom, rgba(9, 37, 72, 0.5), rgba(62, 102, 136, 0.3), rgba(255, 255, 255, 0.1), rgba(114, 170, 195, 0.3), rgba(13, 37, 77, 0.5)), url('/img/index_bg_1.jpg');
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 100vh;
-    overflow: hidden;
-}
