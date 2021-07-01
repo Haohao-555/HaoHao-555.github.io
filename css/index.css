@@ -4638,7 +4638,7 @@ blockquote footer cite:before {
   z-index: 22;
 }
 #vcomment textarea {
-  background: url("valine background") 100% 100% no-repeat;
+  background: url("img/bg_1.png") 100% 100% no-repeat;
 }
 #vcomment textarea:focus {
   background-image: none;
