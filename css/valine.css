@@ -1,5 +1,5 @@
 #vcomment .vpanel .vwrap .vedit #veditor {
-    background: url(http://www.luckyzmj.cn/medias/comment_bg.png) no-repeat;
+    background: url('/img/comment_bg.png') no-repeat;
     background-position: right center;
     background-size: 153px;
 }
