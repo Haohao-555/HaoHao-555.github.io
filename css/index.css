@@ -5949,6 +5949,9 @@ blockquote.pullquote.right {
   padding: 1rem;
   width: 30rem;
   background: var(--search-bg);
+  opacity: 0.6;
+  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+  filter: alpha(opacity=60);
 }
 @media screen and (max-width: 768px) {
   .search-dialog {
