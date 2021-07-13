@@ -123,7 +123,7 @@
 
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/http/</loc>
+    <loc>http://haohaostudy.xyz/tags/JWT/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -137,14 +137,7 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/JWT/</loc>
-    <lastmod>2021-07-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://haohaostudy.xyz/tags/sequelize/</loc>
+    <loc>http://haohaostudy.xyz/tags/http/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -152,6 +145,13 @@
   
   <url>
     <loc>http://haohaostudy.xyz/tags/JavaScript%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <lastmod>2021-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/sequelize/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -209,14 +209,14 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/categories/sequelize/</loc>
+    <loc>http://haohaostudy.xyz/categories/JavaScript%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/categories/JavaScript%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</loc>
+    <loc>http://haohaostudy.xyz/categories/sequelize/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>

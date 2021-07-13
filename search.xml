@@ -151,9 +151,9 @@
       
         <tags>
             
-            <tag> node </tag>
-            
             <tag> JWT </tag>
+            
+            <tag> node </tag>
             
         </tags>
       
@@ -178,9 +178,9 @@
       
         <tags>
             
-            <tag> http </tag>
-            
             <tag> node </tag>
+            
+            <tag> http </tag>
             
         </tags>
       
