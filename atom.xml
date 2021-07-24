@@ -182,9 +182,9 @@
     <category term="node" scheme="http://haohaostudy.xyz/categories/node/"/>
     
     
-    <category term="JWT" scheme="http://haohaostudy.xyz/tags/JWT/"/>
-    
     <category term="node" scheme="http://haohaostudy.xyz/tags/node/"/>
+    
+    <category term="JWT" scheme="http://haohaostudy.xyz/tags/JWT/"/>
     
   </entry>
   
@@ -208,9 +208,9 @@
     <category term="node" scheme="http://haohaostudy.xyz/categories/node/"/>
     
     
-    <category term="node" scheme="http://haohaostudy.xyz/tags/node/"/>
-    
     <category term="http" scheme="http://haohaostudy.xyz/tags/http/"/>
+    
+    <category term="node" scheme="http://haohaostudy.xyz/tags/node/"/>
     
   </entry>
   
