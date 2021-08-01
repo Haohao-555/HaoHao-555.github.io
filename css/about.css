@@ -75,3 +75,9 @@ h1 {
 #article-container a:hover {
   text-decoration: none;
 }
+.github_container .position-relative:nth-child(2) {
+	display: none;
+}
+.github_container div:last-child{
+	display: none;
+}
