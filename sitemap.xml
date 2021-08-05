@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://haohaostudy.xyz/posts/dfdbfhfcsdws/</loc>
+    
+    <lastmod>2021-08-05</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://haohaostudy.xyz/about/index.html</loc>
     
     <lastmod>2021-08-04</lastmod>
@@ -165,13 +172,6 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/http/</loc>
-    <lastmod>2021-08-05</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://haohaostudy.xyz/tags/Hexo/</loc>
     <lastmod>2021-08-05</lastmod>
     <changefreq>daily</changefreq>
@@ -187,6 +187,27 @@
   
   <url>
     <loc>http://haohaostudy.xyz/tags/LeanCloud/</loc>
+    <lastmod>2021-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/http/</loc>
+    <lastmod>2021-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/MDN/</loc>
+    <lastmod>2021-08-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/String/</loc>
     <lastmod>2021-08-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
