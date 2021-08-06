@@ -172,13 +172,6 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/http/</loc>
-    <lastmod>2021-08-06</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://haohaostudy.xyz/tags/MDN/</loc>
     <lastmod>2021-08-06</lastmod>
     <changefreq>daily</changefreq>
@@ -208,6 +201,13 @@
   
   <url>
     <loc>http://haohaostudy.xyz/tags/LeanCloud/</loc>
+    <lastmod>2021-08-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/http/</loc>
     <lastmod>2021-08-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
