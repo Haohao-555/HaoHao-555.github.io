@@ -12,16 +12,13 @@
   height: 160px;
   border-radius: 50%;
 }
-.csdn {
-  width: 100%;
-  padding-bottom: 20px;
+.other {
+  margin-top: -100px;
   border-bottom: 1px solid #333;
 }
-.csdn img {
-  width: 80%;
-  height: 300px;
-  margin-left: auto;
-  margin-right: auto;
+.other > a  {
+ margin-bottom: 50px;
+ display: block;
 }
 h1 {
   margin: 0px;
@@ -41,6 +38,7 @@ h1 {
   color: #4c4948;
 }
 .project {
+  margin-top: -90px;
   padding-bottom: 20px;
   padding-top: 100px;
   border-bottom: 1px solid #333;
@@ -48,6 +46,13 @@ h1 {
 .project_item {
   width: 100%;
   padding-bottom: 20px;
+}
+.project_item h2 {
+  position: relative;
+}
+.project_item h2 span {
+   position: absolute;
+   right: 0px;
 }
 .swiper-container {
   width: 100%;
