@@ -72,13 +72,29 @@ h1 {
   transition: transform 0.8s;
 }
 
- #article-container a:hover {
+#article-container a:hover {
   text-decoration: none;
 }
 
-#github_container > div:nth-child(n+3) {
-	display: none !important;
-} 
-.card-info, .card-archives, .card-tags {
-  display:none;
-} 
+#github_container > div:nth-child(n + 3) {
+  display: none !important;
+}
+.card-info,
+.card-archives,
+.card-tags {
+  display: none;
+}
+.tag {
+  width: 100%;
+  display: flex;
+}
+#article-container .project .project_item .tag a img {
+  margin-right: 10px;
+  width: 60px;
+}
+#article-container .project .project_item .tag a:nth-child(2) img {
+  width: 88px;
+}
+#article-container .project .project_item .tag a:nth-child(5) img {
+  width: 74px;
+}
