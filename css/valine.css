@@ -1,5 +1,1 @@
-#vcomment .vpanel .vwrap .vedit #veditor {
-    background: url('/img/comment_bg.png') no-repeat;
-    background-position: right center;
-    background-size: 153px;
-}
+#vcomment .vpanel .vwrap .vedit #veditor{background:url(/img/comment_bg.png) no-repeat;background-position:right center;background-size:153px}

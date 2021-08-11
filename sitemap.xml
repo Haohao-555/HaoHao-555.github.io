@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://haohaostudy.xyz/posts/hjfjhf57ghjg/</loc>
+    
+    <lastmod>2021-08-11</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://haohaostudy.xyz/posts/sffxfgaada/</loc>
     
     <lastmod>2021-08-11</lastmod>
@@ -235,14 +242,21 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/sequelize/</loc>
+    <loc>http://haohaostudy.xyz/tags/JavaScript/</loc>
     <lastmod>2021-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/JavaScript/</loc>
+    <loc>http://haohaostudy.xyz/tags/%E7%BB%A7%E6%89%BF/</loc>
+    <lastmod>2021-08-11</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/sequelize/</loc>
     <lastmod>2021-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -328,14 +342,14 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/categories/sequelize/</loc>
+    <loc>http://haohaostudy.xyz/categories/JavaScript/</loc>
     <lastmod>2021-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/categories/JavaScript/</loc>
+    <loc>http://haohaostudy.xyz/categories/sequelize/</loc>
     <lastmod>2021-08-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
