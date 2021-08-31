@@ -214,6 +214,27 @@
   </url>
   
   <url>
+    <loc>http://haohaostudy.xyz/tags/MDN/</loc>
+    <lastmod>2021-08-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/String/</loc>
+    <lastmod>2021-08-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/Array/</loc>
+    <lastmod>2021-08-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://haohaostudy.xyz/tags/Hexo/</loc>
     <lastmod>2021-08-31</lastmod>
     <changefreq>daily</changefreq>
@@ -229,27 +250,6 @@
   
   <url>
     <loc>http://haohaostudy.xyz/tags/LeanCloud/</loc>
-    <lastmod>2021-08-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://haohaostudy.xyz/tags/MDN/</loc>
-    <lastmod>2021-08-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://haohaostudy.xyz/tags/Array/</loc>
-    <lastmod>2021-08-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://haohaostudy.xyz/tags/String/</loc>
     <lastmod>2021-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -291,13 +291,6 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/%E9%98%B2%E6%8A%96%E4%B8%8E%E8%8A%82%E6%B5%81/</loc>
-    <lastmod>2021-08-31</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://haohaostudy.xyz/tags/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F/</loc>
     <lastmod>2021-08-31</lastmod>
     <changefreq>daily</changefreq>
@@ -306,6 +299,13 @@
   
   <url>
     <loc>http://haohaostudy.xyz/tags/%E5%BE%AE%E4%BF%A1%E8%BF%90%E5%8A%A8/</loc>
+    <lastmod>2021-08-31</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/%E9%98%B2%E6%8A%96%E4%B8%8E%E8%8A%82%E6%B5%81/</loc>
     <lastmod>2021-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -370,14 +370,14 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/categories/%E7%AC%94%E8%AE%B0/</loc>
+    <loc>http://haohaostudy.xyz/categories/MDN/</loc>
     <lastmod>2021-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/categories/MDN/</loc>
+    <loc>http://haohaostudy.xyz/categories/%E7%AC%94%E8%AE%B0/</loc>
     <lastmod>2021-08-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
