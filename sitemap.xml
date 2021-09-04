@@ -9,6 +9,13 @@
   </url>
   
   <url>
+    <loc>http://haohaostudy.xyz/shuoshuo/index.html</loc>
+    
+    <lastmod>2021-09-04</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://haohaostudy.xyz/posts/asfbefbache89/</loc>
     
     <lastmod>2021-09-02</lastmod>
@@ -142,13 +149,6 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/shuoshuo/index.html</loc>
-    
-    <lastmod>2021-08-08</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://haohaostudy.xyz/messageboard/index.html</loc>
     
     <lastmod>2021-07-10</lastmod>
@@ -214,13 +214,6 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/Array/</loc>
-    <lastmod>2021-09-04</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://haohaostudy.xyz/tags/Hexo/</loc>
     <lastmod>2021-09-04</lastmod>
     <changefreq>daily</changefreq>
@@ -242,14 +235,14 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/http/</loc>
+    <loc>http://haohaostudy.xyz/tags/Array/</loc>
     <lastmod>2021-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/tags/sequelize/</loc>
+    <loc>http://haohaostudy.xyz/tags/http/</loc>
     <lastmod>2021-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -264,6 +257,13 @@
   
   <url>
     <loc>http://haohaostudy.xyz/tags/%E7%BB%A7%E6%89%BF/</loc>
+    <lastmod>2021-09-04</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://haohaostudy.xyz/tags/sequelize/</loc>
     <lastmod>2021-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -370,14 +370,14 @@
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/categories/sequelize/</loc>
+    <loc>http://haohaostudy.xyz/categories/JavaScript/</loc>
     <lastmod>2021-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://haohaostudy.xyz/categories/JavaScript/</loc>
+    <loc>http://haohaostudy.xyz/categories/sequelize/</loc>
     <lastmod>2021-09-04</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
